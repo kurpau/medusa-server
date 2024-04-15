@@ -2009,7 +2009,7 @@
   dependencies:
     "@medusajs/modules-sdk" "^1.12.3"
 
-"@medusajs/cache-redis@latest":
+"@medusajs/cache-redis@^1.9.0":
   version "1.9.0"
   resolved "https://registry.npmjs.org/@medusajs/cache-redis/-/cache-redis-1.9.0.tgz"
   integrity sha512-d2lpDjM6dFN2U+zeEEA/9PFt4Xln2G3FPnZs2KGrB3QJJVC6OIOX4A0d97KZfc4EX+C0QltwkVhmSniJb5I0Ww==
@@ -2039,7 +2039,7 @@
     "@medusajs/utils" "^1.11.5"
     ulid "^2.3.0"
 
-"@medusajs/event-bus-redis@latest":
+"@medusajs/event-bus-redis@^1.8.12":
   version "1.8.12"
   resolved "https://registry.npmjs.org/@medusajs/event-bus-redis/-/event-bus-redis-1.8.12.tgz"
   integrity sha512-EVHa+DpTkUbQRZpJlUHzAsjLTrVgpDkexUmjCrVIR7aaLOGW0bxvFpOZMbbNAekYqG3bAEsdCuw+9vuoIdhC8g==

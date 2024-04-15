@@ -27,9 +27,9 @@
   "dependencies": {
     "@medusajs/admin": "latest",
     "@medusajs/cache-inmemory": "latest",
-    "@medusajs/cache-redis": "latest",
+    "@medusajs/cache-redis": "^1.9.0",
     "@medusajs/event-bus-local": "latest",
-    "@medusajs/event-bus-redis": "latest",
+    "@medusajs/event-bus-redis": "^1.8.12",
     "@medusajs/file-local": "^1.0.3",
     "@medusajs/medusa": "latest",
     "@tanstack/react-query": "4.22.0",
