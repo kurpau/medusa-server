@@ -85,7 +85,7 @@ const modules = {
 const projectConfig = {
   jwtSecret: process.env.JWT_SECRET,
   cookieSecret: process.env.COOKIE_SECRET,
-  store_cors: process.env.STORE_CORS, // STORE_CORS,
+  store_cors: STORE_CORS,
   database_url: DATABASE_URL,
   admin_cors: ADMIN_CORS,
   redis_url: REDIS_URL,
